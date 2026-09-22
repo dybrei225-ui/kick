@@ -1,0 +1,6 @@
+{
+  "name": "KICK ANALYTICS MX",
+  "description": "Plataforma especializada de análisis objetivo y métricas públicas para streamers y canales de KICK México.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
